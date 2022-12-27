@@ -1,0 +1,22 @@
+{
+  "name": "github-package-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "delete": "^1.1.0",
+    "inquirer": "^9.1.4",
+    "inquirer-autocomplete-prompt": "^3.0.0",
+    "inquirer-search-list": "^1.2.6",
+    "nanospinner": "^1.1.0",
+    "node-fetch": "^3.3.0"
+  }
+}
